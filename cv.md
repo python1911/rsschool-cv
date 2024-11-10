@@ -20,5 +20,10 @@ I am a software developer with experience in building web applications and solvi
 - Collaborated with cross-functional teams to design and develop new features.
 - Improved app performance by 30% through code optimization.
 
+### Intern, ABC Inc.
+- **Jun 2019 - Dec 2019**
+- Assisted in developing RESTful APIs using Node.js and Express.
+- Wrote unit tests to improve code reliability.
+
 ## Education
 - B.S. in Computer Science, University of Example - **Graduated: 2019**
