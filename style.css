@@ -46,6 +46,7 @@ pre {
     border-radius: 5px;
     overflow-x: auto;
 }
-footer p {
-    margin: 0;
+footer img {
+    width: 50px;
+    height: auto;
 }
